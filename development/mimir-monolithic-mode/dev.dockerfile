@@ -1,4 +1,4 @@
-FROM alpine:3.20.2
+FROM alpine:3.22.1
 
 RUN     mkdir /mimir
 WORKDIR /mimir
